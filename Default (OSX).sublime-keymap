@@ -1,0 +1,4 @@
+[
+    { "keys": ["ctrl+super+v"], "command": "extract_variable" },
+    { "keys": ["ctrl+super+m"], "command": "extract_function" }
+]
